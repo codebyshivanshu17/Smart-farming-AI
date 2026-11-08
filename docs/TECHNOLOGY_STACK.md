@@ -4,7 +4,7 @@ The following technologies will be used to develop the Smart Farming AI applicat
 
 ## 1. Java
 
-Java will be used as the main programming language for developing the application.
+Java 25 LTS will be used as the main programming language and runtime for developing the application.
 
 ## 2. Spring Boot
 

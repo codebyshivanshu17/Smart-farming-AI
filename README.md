@@ -28,7 +28,7 @@ Smart Farming AI is a web-based application designed to help farmers make better
 
 | Technology | Purpose |
 |---|---|
-| Java | Main programming language |
+| Java 25 (LTS) | Main programming language and runtime |
 | Spring Boot | Backend development |
 | MySQL | Database management |
 | HTML | Webpage structure |
